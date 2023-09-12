@@ -83,5 +83,6 @@
                 style="fill: var(--color2, #2e2f42);"
             />
         </symbol>
+        
     </defs>
 </svg>
